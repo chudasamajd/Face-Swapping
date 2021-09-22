@@ -7,7 +7,9 @@
 
 <b>Input Image 1:</b>
 <img src="Output1.JPG"/>
+
 <b>Input Image 2:</b>
 <img src="Output2.JPG"/>
+
 <b>Output Image:</b>
 <img src="Final Output.JPG"/>
