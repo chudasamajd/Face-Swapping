@@ -10,4 +10,4 @@
 <b>Input Image 2:</b>
 <img src="Output2.JPG"/>
 <b>Output Image:</b>
-<img src="Output3.JPG"/>
+<img src="Final Output.JPG"/>
