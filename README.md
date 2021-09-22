@@ -5,11 +5,11 @@
 - dlib : for landmark's facial detector with pre-trained models
 - openCV : for image read & write operation
 
-<b>Input Image 1:</b>
+<b>Input Image 1:</b><br>
 <img src="Output1.JPG"/>
-
-<b>Input Image 2:</b>
+<br>
+<b>Input Image 2:</b><br>
 <img src="Output2.JPG"/>
-
-<b>Output Image:</b>
+<br>
+<b>Output Image:</b><br>
 <img src="Final Output.JPG"/>
